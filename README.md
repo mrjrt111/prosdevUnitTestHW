@@ -30,3 +30,6 @@ D | Did not Meet Expectation | 74.99 and below
 
 ## Results
 *TODO: Insert screenshot of the results from the command line*
+
+
+![sc](https://user-images.githubusercontent.com/45527725/88122898-4b13b000-cbfc-11ea-82e1-faa1f20fee72.png)
